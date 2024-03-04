@@ -1,6 +1,6 @@
 # IES Haría
 
-  Consiste en un sistema de calificaciones en lines,permite gestionar facilmente las notas de todos los estudiantes de diferentes años y sus materias respectivas.
+  Consiste en un sistema de calificaciones en linea que permite gestionar facilmente las notas de todos los estudiantes de diferentes años y sus materias respectivas.
 
 
 # Instalación
