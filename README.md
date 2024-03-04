@@ -1,6 +1,6 @@
 # IES Haría
 
-  Consiste en un sistema de calificaciones en linea que permite gestionar facilmente las notas de todos los estudiantes de diferentes años y sus materias respectivas.
+Consiste en un sistema de calificaciones en linea que permite gestionar facilmente las notas de todos los estudiantes de diferentes años y sus materias respectivas.
 
 
 # Instalación
@@ -11,11 +11,11 @@
 
   localhost
 
-  <img src="config/recursos/localhost.png" alt="">
+<img src="config/recursos/localhost.png" alt="">
   
 
 # Credenciales
 
-  Admin    = admin@iesharia.com
+Admin    = admin@iesharia.com
   
-  Password = 1234  
+Password = 1234  
